@@ -101,25 +101,24 @@ main()  # Punto de entrada
 2. Navega a la carpeta del proyecto:
 
    ```bash
-   cd nombre-del-repositorio
+   cd Cód-tradicional-Poo
    ```
 3. Ejecuta cada script según el paradigma:
 
    * Tradicional:
 
      ```bash
-     python3 promedio_tradicional.py
+     python3 Cod-tradicional,py
      ```
    * POO:
 
      ```bash
-     python3 promedio_poo.py
+     python3 Cod-Programacion-Poo.py
      ```
 
 ---
 
 ## Conclusión
-
 Este ejemplo muestra cómo abordar el mismo problema (cálculo de promedio semanal de temperatura) usando dos paradigmas distintos. La programación tradicional es directa y fácil de entender para tareas pequeñas, mientras que la POO aporta estructuras más flexibles y mantenibles para proyectos de mayor envergadura.
 
 Gracias
