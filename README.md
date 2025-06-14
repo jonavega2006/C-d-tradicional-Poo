@@ -96,7 +96,7 @@ main()  # Punto de entrada
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/jonavega2006/C-d-tradicional-Poo.git
    ```
 2. Navega a la carpeta del proyecto:
 
