@@ -110,7 +110,7 @@ main()  # Punto de entrada
      ```bash
      python3 Cod-tradicional,py
      ```
-   * POO:
+   * Orientado objetos:
 
      ```bash
      python3 Cod-Programacion-Poo.py
